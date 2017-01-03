@@ -1,0 +1,17 @@
+{
+  "intents": [
+    {
+      "intent": "CreateTaskPeter",
+      "slots": [
+        {
+          "name": "TaskName",
+          "type": "AMAZON.LITERAL"
+        },
+        {
+          "name": "TargetDate",
+          "type": "TARGET_DATES"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+CreateTaskPeter {buy milk|TaskName}
+CreateTaskPeter {buy milk|TaskName} {TargetDate}
+CreateTaskPeter {buy milk|TaskName} by {TargetDate}
+CreateTaskPeter {buy milk|TaskName} before {TargetDate}
+
+CreateTaskPeter {fix the sink|TaskName}
+CreateTaskPeter {fix the sink|TaskName} {TargetDate}
+CreateTaskPeter {fix the sink|TaskName} by {TargetDate}
+CreateTaskPeter {fix the sink|TaskName} before {TargetDate}
+
+CreateTaskPeter {do the laundry|TaskName}
+CreateTaskPeter {do the laundry|TaskName} {TargetDate}
+CreateTaskPeter {do the laundry|TaskName} by {TargetDate}
+CreateTaskPeter {do the laundry|TaskName} before {TargetDate}
+
+CreateTaskPeter {get more dog food|TaskName}
+CreateTaskPeter {get more dog food|TaskName} {TargetDate}
+CreateTaskPeter {get more dog food|TaskName} by {TargetDate}
+CreateTaskPeter {get more dog food|TaskName} before {TargetDate}
