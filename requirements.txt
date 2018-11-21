@@ -1,5 +1,5 @@
 asana==0.6.2
 oauthlib==2.0.1
-requests==2.9.2
+requests==2.20.0
 requests-oauthlib==0.6.2
 six==1.10.0
